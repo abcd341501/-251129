@@ -1,0 +1,5 @@
+{
+  "name": "HK Stock Smart Dashboard",
+  "description": "A comprehensive real-time dashboard for Hong Kong stocks, integrating TradingView technicals, simulated AASTOCKS data, Futu Bull flow analysis, and AI-powered summaries.",
+  "requestFramePermissions": []
+}
